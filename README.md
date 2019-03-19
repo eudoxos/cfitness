@@ -8,6 +8,6 @@ Note that even though the text is freely accessible, its copyright holder is © 
 The book is produced in several formats:
 
 * [HTML](https://eudoxos.github.io/cfitness/html/index.html)
-* [ePub](https://eudoxos.github.io/saints/epub/kenneth-folk-contemplative-fitness.epub) (for e-book readers)
+* [ePub](https://eudoxos.github.io/cfitness/epub/kenneth-folk-contemplative-fitness.epub) (for e-book readers)
 
 If you spot a typo in the text, you are welcome to create a pull request to fix it.
