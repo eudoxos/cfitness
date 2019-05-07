@@ -1,7 +1,7 @@
 # Contemplative Fitness
 ## Kenneth Folk
 
-This repository contains a copy of Kenneth Folk's “work-in-progress” book *Contemplative Fitness*. It used to be hosted at a new-defunct contemplativefitnessbook.com.
+This repository contains a copy of Kenneth Folk's “work-in-progress” book *Contemplative Fitness*. It used to be hosted at a now-defunct contemplativefitnessbook.com.
 
 Note that even though the text is freely accessible, its copyright holder is © Kenneth Folk, 2013.
 

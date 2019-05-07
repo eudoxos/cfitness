@@ -12,13 +12,13 @@
     <dc:publisher>Kenneth Folk</dc:publisher>
     <dc:rights>2013, Kenneth Folk</dc:rights>
     <dc:identifier id="kenneth-folk-contemplative-fitness">https://eudoxos.github.io/cfitness/</dc:identifier>
-    <dc:date>2019-03-19T07:40:53Z</dc:date>
-    <meta property="dcterms:modified">2019-03-19T07:40:53Z</meta>
+    <dc:date>2019-05-07T11:54:19Z</dc:date>
+    <meta property="dcterms:modified">2019-05-07T11:54:19Z</meta>
     <meta property="ibooks:version">0.1-work-in-progress</meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
     <meta property="ibooks:scroll-axis">vertical</meta>
-    <meta name="cover" content="epub-18"/>
+    <meta name="cover" content="epub-10"/>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
@@ -27,24 +27,16 @@
     <item id="epub-1" href="index.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-2" href="_images/3vBmNlJ0O7I.jpg" media-type="image/jpeg" />
     <item id="epub-3" href="_images/progress-of-insight-plot.png" media-type="image/png" />
-    <item id="epub-4" href="_static/ajax-loader.gif" media-type="image/gif" />
-    <item id="epub-5" href="_static/basic.css" media-type="text/css" />
-    <item id="epub-6" href="_static/comment-bright.png" media-type="image/png" />
-    <item id="epub-7" href="_static/comment-close.png" media-type="image/png" />
-    <item id="epub-8" href="_static/comment.png" media-type="image/png" />
-    <item id="epub-9" href="_static/down-pressed.png" media-type="image/png" />
-    <item id="epub-10" href="_static/down.png" media-type="image/png" />
-    <item id="epub-11" href="_static/epub.css" media-type="text/css" />
-    <item id="epub-12" href="_static/file.png" media-type="image/png" />
-    <item id="epub-13" href="_static/minus.png" media-type="image/png" />
-    <item id="epub-14" href="_static/plus.png" media-type="image/png" />
-    <item id="epub-15" href="_static/pygments.css" media-type="text/css" />
-    <item id="epub-16" href="_static/up-pressed.png" media-type="image/png" />
-    <item id="epub-17" href="_static/up.png" media-type="image/png" />
-    <item id="epub-19" href="epub-cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-5" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-6" href="_static/file.png" media-type="image/png" />
+    <item id="epub-7" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-8" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-9" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-11" href="epub-cover.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
-    <itemref idref="epub-19" />
+    <itemref idref="epub-11" />
     <itemref idref="epub-1" />
     <itemref idref="epub-0" />
   </spine>
