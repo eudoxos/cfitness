@@ -300,7 +300,7 @@ new course.
 The experience of union showed me a reality beyond my ordinary self, but
 it was only a short-lived glimpse. I found myself on a quest to
 understand what had happened to me and to “get it back.” With the
-assumpltion that what I had glimpsed was somehow truer than my ordinary
+assumption that what I had glimpsed was somehow truer than my ordinary
 life, I wanted to be able to access it again, and ultimately find a way
 to feel like that all the time. I was now officially a seeker, but I
 didn't know how to seek. For many years following that experience, I
@@ -534,7 +534,7 @@ feed 'em shit.”
 How to explain the impact of one comment on my entire life? The IMS
 teachers had treated us, the students, like “mushrooms.” I was stunned,
 later enraged. I found it appalling that teachers would withhold such
-valuable information. Surely, if I had know that my discouragement,
+valuable information. Surely, if I had known that my discouragement,
 confusion, and lack of motivation were normal, typical, temporary, and
 the entirely predictable consequence of a particular phase of
 developmental that was first mapped over 2,000 years ago, I would have
@@ -1254,7 +1254,7 @@ those depths.
 No description of awakening is adequate. If you get there, you will be
 surprised, no matter what you hear or read in the meantime. In response
 to my questions about enlightenment during the early years of my
-practice, Bill Hamilton used to say, “Highly recommended. can't tell you
+practice, Bill Hamilton used to say, “Highly recommended. Can't tell you
 why.” I’ll end my story here, not because my story has ended, but
 because it hasn’t; my story is ongoing and will not tidily fit within
 these pages. Indeed, my life has changed as much in the last nine years
@@ -1805,7 +1805,7 @@ already a good deal of momentum. The automobile transmission idea
 initially came from something I heard Shinzen Young say many years ago:
 when things were tough, he would downshift to mindfulness of the body
 (vipassana) as a kind of “first gear.” Once he got up a head of steam,
-he might shft gears to another practice, perhaps Zen *shikantaza* (just
+he might shift gears to another practice, perhaps Zen *shikantaza* (just
 sitting). I found Shinzen's downshifting idea extremely helpful and
 later developed it into a three-gear model, briefing flirting with a
 5-speed transmission along the way.
@@ -2463,7 +2463,7 @@ people get hung up for years in the preceding ñana? The key to coming to
 terms with the tenth ñana, Knowledge of Re-observation, is surrender.
 Once the yogi surrenders to whatever her practice brings, she is free.
 Having surrendered, it does not matter whether the present experience
-goes or stays, or whether it is pleasant or unpleasant. It this attitude
+goes or stays, or whether it is pleasant or unpleasant. It is this attitude
 of surrender, along with time on the cushion, that results in the full
 development of the strata of mind where fear, misery, and disgust live.
 Once those mental strata are developed, or (viewed through another lens)
@@ -2483,8 +2483,8 @@ effective ways to do this:
    has nothing to say! The mind becomes silent as a church. Do this as
    many times as you need to until the mind becomes still.
 2. Repeat to yourself silently or aloud, “I wonder what my next thought
-   will be.” [*This highly effective practice comes from Eckhart Tolle's
-   *The Power of Now*.*] Watch your mind the way a cat would watch a
+   will be.” [This highly effective practice comes from Eckhart Tolle's
+   *The Power of Now*.] Watch your mind the way a cat would watch a
    mousehole, alert to the exact moment the mouse (a thought) peeks its
    head out of the hole. By directly and continuously objectifying
    thought in this way, thoughts will subside, leaving blissful silence
