@@ -4,10 +4,19 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
   <style>dt { font-weight:bold; } body {margin: 8%; font-family:'Lora'; background-color: #ffaaaa } </style>
 </head>
+<script>
+  window.onload = function () {
+    const url = window.location.href.replace("eudoxos.github.io","edhamma.github.io");
+    document.getElementById("new-url-text").innerHTML=url;
+    document.getElementById("new-url").href=url;
+    setTimeout(()=>{ window.location.href=url;},3000);
+  }
+</script>
 <body>
-	<h1>404: Site moved 🤖</h1>
-	<h2><tt>eudoxos.github.io/cfitness/</tt> → <a href="https://edhamma.github.io/cfitness/">edhamma.github.io/cfitness/</a></h2>
-	<h2>Please fix links which took you here.</h2>
+	<h1>404: site moved 🤖</h1>
+	<h2>eudoxos.github.io → edhamma.github.io</h2>
+	<h3>Please fix links which took you here. Sorry for inconvenience.</h3>
+	<h1>Redirecting: <a id="new-url" href=""><span id="new-url-text"></span></a>…</h1>
 </body>
 </html>
 
